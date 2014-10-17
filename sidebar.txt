@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dzd:home|Door43 (dzd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dzd|d43-dzd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dzd/archive/master.zip|d43-dzd.zip]]
+
+**Recent Changes**
+{{changes>ns = dzd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dzd|Ethnologue data]]
+
